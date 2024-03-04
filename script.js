@@ -76,4 +76,4 @@ document.addEventListener("DOMContentLoaded", function() {
     const b = bigint & 255;
     return { r, g, b };
   }
-  
+  //Este es un comentario en javaScript
